@@ -1,5 +1,5 @@
 require 'i18n'
-require 'i18n/core_ext/hash'
+# require 'i18n/core_ext/hash'
 require 'yaml'
 
 require 'localeapp/i18n_shim'
